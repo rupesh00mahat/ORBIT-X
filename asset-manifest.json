@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ORBIT-X/static/css/main.1cb3612e.css",
+    "main.js": "/ORBIT-X/static/js/main.5455f357.js",
+    "static/media/main-bg.jpg": "/ORBIT-X/static/media/main-bg.ca79f79ffba3ea24395d.jpg",
+    "static/media/goes-2..jpg": "/ORBIT-X/static/media/goes-2..be46f6a2ac05f090c452.jpg",
+    "static/media/goes-16.jpg": "/ORBIT-X/static/media/goes-16.84187b87eeaa13b8104c.jpg",
+    "index.html": "/ORBIT-X/index.html",
+    "main.1cb3612e.css.map": "/ORBIT-X/static/css/main.1cb3612e.css.map",
+    "main.5455f357.js.map": "/ORBIT-X/static/js/main.5455f357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cb3612e.css",
+    "static/js/main.5455f357.js"
+  ]
+}
