@@ -150,6 +150,9 @@ body {
 .container span {
   font-size: 13px;
 }
+li{
+  cursor: pointer;
+}
 
 .our-mission {
   position: relative;

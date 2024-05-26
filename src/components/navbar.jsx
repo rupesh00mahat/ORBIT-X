@@ -12,19 +12,18 @@ function Navbar() {
       <ul id="nav-list">
         <li className="nav-item">
           About
-          <a />
+         
         </li>
         <li className="nav-item">
           Technology
-          <a />
+        
         </li>
         <li className="nav-item">
           Galaxy
-          <a />
+         
         </li>
         <li className="nav-item">
           Satellite
-          <a />
         </li>
       </ul>
     </div>
